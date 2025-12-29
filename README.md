@@ -196,5 +196,5 @@ simply `npm install` and `npm test`.
 [downloads-url]: https://npm-stat.com/charts.html?package=es5-shim
 [codecov-image]: https://codecov.io/gh/es-shims/es5-shim/branch/main/graphs/badge.svg
 [codecov-url]: https://app.codecov.io/gh/es-shims/es5-shim/
-[actions-image]: https://img.shields.io/endpoint?url=https://github-actions-badge-u3jn4tfpocch.runkit.sh/es-shims/es5-shim
+[actions-image]: https://img.shields.io/github/check-runs/es-shims/es5-shim/master
 [actions-url]: https://github.com/es-shims/es5-shim/actions
